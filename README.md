@@ -1,2 +1,2 @@
 # leenankurssi
-yksilöprojektin palautukset
+yksilöprojektin palautukset. Eka muokkaus xd.
